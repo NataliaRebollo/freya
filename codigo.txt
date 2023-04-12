@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<<<<<<< HEAD
+<html lang="es">
+=======
+<html lang="en">
+>>>>>>> Anticipo/otoño/Invierno
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Freya Indumentaria</h1>
+<<<<<<< HEAD
+<h2>Anticipó Otoño/Invierno 2023</h2>
+=======
+<h2>Anticipo Otoño Invierno 2023</h2>
+>>>>>>> Anticipo/otoño/Invierno
+<p>Freya, ofrece la modalidad de envio puerta a puerta. Podras recibir tu pedido en tu casa o en la direccion que te quede mas comoda.</p>
+</body>
+</html>
